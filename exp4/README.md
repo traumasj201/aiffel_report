@@ -8,8 +8,8 @@
 **PRT(PeerReviewTemplate)**
 
 * [O] 코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
-*   - 네 정상적으로 동작합니다.
-*   - 목표 accuracy 이상을 달성하였습니다.
+    - 네 정상적으로 동작합니다.
+    - 목표 accuracy 이상을 달성하였습니다.
 
 * [O] 주석을 보고 작성자의 코드가 이해되었나요?
 *   ![image](https://github.com/traumasj201/aiffel_report/assets/79844211/74b65d43-7264-4a14-82e7-803c001e8a14)
