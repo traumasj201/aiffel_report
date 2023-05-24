@@ -12,7 +12,7 @@
     - 목표 accuracy 이상을 달성하였습니다.
 
 * [O] 주석을 보고 작성자의 코드가 이해되었나요?
-    ![image](https://github.com/traumasj201/aiffel_report/assets/79844211/74b65d43-7264-4a14-82e7-803c001e8a14)
+    - ![image](https://github.com/traumasj201/aiffel_report/assets/79844211/74b65d43-7264-4a14-82e7-803c001e8a14)
     
     - 코드의 모든 파트에 주석이 자세히 달려 있어서 이해하기에 편했습니다.
 
