@@ -27,7 +27,7 @@
 
 * [O] 코드가 간결한가요?
   - 네
-  - ![image](https://github.com/traumasj201/aiffel_report/assets/79844211/4a28a9e7-b30a-4db7-b5dd-2eb8d53581bc)
+  - ![image](https://github.com/traumasj201/aiffel_report/assets/79844211/4c4b879d-5df0-4b8d-825b-64192d18c8a5)
   - 주요 동작들을 전부 함수로 선언해주셔서 전체 처리가 간결해졌습니다.
 
 
